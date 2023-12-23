@@ -1,6 +1,6 @@
 payload:
-  - 'steampowered.com'
-  - 'steamstatic.com'
-  - 'fanatical.com'
-  - 'humblebundle.com'
-  - 'steamcommunity.com'
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,fanatical.com
+  - DOMAIN-SUFFIX,humblebundle.com
+  - DOMAIN-SUFFIX,steamcommunity.com
